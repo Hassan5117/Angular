@@ -10,7 +10,8 @@ import { ContactComponent } from './contact.component';
   imports: [
     CommonModule,
     ReactiveFormsModule,
-    ContactComponent
+    ContactComponent,
+    
   ],
   exports: [
     ReactiveFormsModule,
